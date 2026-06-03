@@ -1,0 +1,794 @@
+customer_id,customer_name,segment,customer_order_count,repeat_customer,avg_customer_value
+CG-12520,Claire Gute,Lost,5,1,229.75600000000003
+DV-13045,Darrin Van Huff,Potential Loyalists,9,1,124.387
+SO-20335,Sean O'Donnell,Loyal Customers,15,1,173.50503333333333
+BH-11710,Brosina Hoffman,Loyal Customers,24,1,260.63962499999997
+AA-10480,Andrew Allen,Lost,12,1,149.20933333333335
+IM-15070,Irene Maddox,Loyal Customers,21,1,234.7844761904762
+HP-14815,Harold Pawlan,Potential Loyalists,10,1,199.03140000000002
+PK-19075,Pete Kriz,Champions,25,1,345.87735999999995
+AG-10270,Alejandro Grove,At Risk,14,1,184.4927142857143
+ZD-21925,Zuschuss Donatelli,At Risk,9,1,165.99377777777778
+KB-16585,Ken Black,Loyal Customers,23,1,119.33660869565219
+SF-20065,Sandra Flanagan,Potential Loyalists,9,1,84.83844444444443
+EB-13870,Emily Burns,Loyal Customers,11,1,251.56536363636363
+EH-13945,Eric Hoffmann,At Risk,17,1,40.24535294117646
+TB-21520,Tracy Blumstein,Loyal Customers,20,1,236.8743
+MA-17560,Matt Abelman,Loyal Customers,34,1,126.44591176470588
+GH-14485,Gene Hale,Lost,3,1,453.74800000000005
+SN-20710,Steve Nguyen,Loyal Customers,19,1,164.62943157894736
+LC-16930,Linda Cazamias,Loyal Customers,14,1,320.9247142857143
+RA-19885,Ruben Ausman,Loyal Customers,15,1,255.4876
+ES-14080,Erin Smith,Champions,20,1,232.8962
+ON-18715,Odella Nelson,At Risk,15,1,104.50133333333333
+PO-18865,Patrick O'Donnell,Loyal Customers,13,1,191.7856923076923
+LH-16900,Lena Hernandez,Loyal Customers,15,1,153.02213333333333
+DP-13000,Darren Powers,At Risk,17,1,61.80211764705882
+JM-15265,Janet Molinari,Potential Loyalists,13,1,138.78046153846154
+TB-21055,Ted Butterfield,At Risk,18,1,81.54894444444444
+KM-16720,Kunst Miller,Champions,28,1,175.33828571428572
+PS-18970,Paul Stevenson,Potential Loyalists,13,1,98.35684615384615
+BS-11590,Brendan Sweed,Potential Loyalists,10,1,245.4928
+KD-16270,Karen Daniels,At Risk,16,1,517.647375
+HM-14980,Henry MacAllister,Lost,7,1,105.18228571428571
+JE-15745,Joel Eaton,Loyal Customers,23,1,293.9484782608696
+KB-16600,Ken Brennan,Potential Loyalists,9,1,109.32466666666667
+SC-20770,Stewart Carmichael,Loyal Customers,21,1,213.93604761904763
+DN-13690,Duane Noonan,At Risk,11,1,194.52636363636364
+JC-16105,Julie Creighton,Potential Loyalists,9,1,95.39733333333334
+CS-12400,Christopher Schild,Loyal Customers,14,1,260.8470357142857
+PG-18895,Paul Gonzalez,Potential Loyalists,17,1,116.892
+GM-14455,Gary Mitchum,Potential Loyalists,12,1,256.55199999999996
+JS-15685,Jim Sink,Lost,11,1,102.82399999999998
+KB-16315,Karl Braun,At Risk,22,1,71.33927272727273
+RB-19705,Roger Barcio,Lost,7,1,295.34999999999997
+PN-18775,Parhena Norris,Potential Loyalists,13,1,112.85784615384615
+KD-16345,Katherine Ducich,Potential Loyalists,10,1,188.8964
+ER-13855,Elpida Rittenbach,Lost,5,1,249.1576
+RB-19465,Rick Bensley,Champions,23,1,205.02026086956522
+GZ-14470,Gary Zandusky,Champions,14,1,311.0821428571429
+LC-16870,Lena Cacioppo,Loyal Customers,30,1,86.02346666666666
+JM-15250,Janet Martin,Potential Loyalists,19,1,166.26957894736844
+PA-19060,Pete Armstrong,At Risk,7,1,104.20114285714286
+CV-12805,Cynthia Voltz,Loyal Customers,19,1,124.75334736842105
+CL-12565,Clay Ludtke,Loyal Customers,28,1,388.5909285714286
+RC-19960,Ryan Crowe,At Risk,11,1,80.52290909090908
+DK-13090,Dave Kipp,Loyal Customers,13,1,203.88899999999998
+GG-14650,Greg Guthrie,Potential Loyalists,24,1,92.66666666666667
+SC-20725,Steven Cartwright,Loyal Customers,26,1,201.0080769230769
+AD-10180,Alan Dominguez,Loyal Customers,12,1,508.9066666666667
+PF-19165,Philip Fox,Loyal Customers,10,1,277.0
+TS-21610,Troy Staebel,Loyal Customers,11,1,256.4021818181818
+LS-16975,Lindsay Shagiari,Loyal Customers,22,1,135.8488181818182
+DW-13585,Dorothy Wardle,At Risk,10,1,120.4854
+LC-16885,Lena Creighton,Champions,23,1,333.17939130434786
+JD-15895,Jonathan Doherty,Loyal Customers,32,1,237.83950000000002
+SH-19975,Sally Hughsby,Loyal Customers,29,1,117.47722413793103
+SG-20080,Sandra Glassco,Lost,11,1,309.6891818181818
+HA-14920,Helen Andreada,Loyal Customers,18,1,143.56433333333334
+MG-17680,Maureen Gastineau,Lost,10,1,235.0188
+JE-16165,Justin Ellison,Lost,7,1,385.3211428571429
+TW-21025,Tamara Willingham,Loyal Customers,12,1,439.9021666666667
+SP-20650,Stephanie Phelps,At Risk,15,1,124.82906666666668
+NK-18490,Neil Knudson,Potential Loyalists,11,1,52.004363636363635
+DB-13060,Dave Brooks,Loyal Customers,13,1,348.58815384615383
+NP-18670,Nora Paige,Potential Loyalists,10,1,390.8402
+TT-21070,Ted Trevino,Loyal Customers,14,1,351.11442857142856
+EM-13960,Eric Murdock,At Risk,6,1,155.61733333333333
+RD-19900,Ruben Dartt,Loyal Customers,21,1,149.2344761904762
+MJ-17740,Max Jones,Loyal Customers,15,1,421.38306666666665
+BM-11140,Becky Martin,Lost,16,1,736.851875
+CS-12130,Chad Sievert,Lost,7,1,126.37714285714286
+JB-15400,Jennifer Braxton,Potential Loyalists,16,1,111.9753125
+SJ-20500,Shirley Jackson,At Risk,7,1,188.39657142857143
+JK-15640,Jim Kriz,Loyal Customers,12,1,396.70283333333333
+DK-13150,David Kendrick,Lost,5,1,159.5664
+RM-19675,Robert Marley,Potential Loyalists,11,1,543.5541818181819
+SK-19990,Sally Knutson,Lost,5,1,176.6818
+FM-14290,Frank Merwin,Loyal Customers,20,1,186.8099
+AM-10360,Alice McCarthy,Potential Loyalists,12,1,67.83433333333333
+MP-17470,Mark Packer,Loyal Customers,14,1,229.00942857142857
+MZ-17515,Mary Zewe,Loyal Customers,10,1,256.4906
+CB-12025,Cassandra Brandow,Loyal Customers,26,1,233.69765384615386
+VM-21685,Valerie Mitchum,Loyal Customers,12,1,204.57216666666667
+FH-14365,Fred Hopkins,Loyal Customers,13,1,537.4766153846153
+MB-17305,Maria Bertelson,Potential Loyalists,19,1,81.51063157894737
+BS-11755,Bruce Stewart,Loyal Customers,14,1,183.0272857142857
+LC-17140,Logan Currie,Loyal Customers,19,1,138.60957894736842
+HK-14890,Heather Kirkland,Loyal Customers,15,1,325.18559999999997
+LE-16810,Laurel Elliston,Potential Loyalists,9,1,163.27222222222224
+JH-15985,Joseph Holt,Potential Loyalists,14,1,568.2141428571429
+MS-17980,Michael Stewart,Potential Loyalists,11,1,77.73781818181818
+VW-21775,Victoria Wilson,Champions,18,1,340.77988888888893
+JH-15910,Jonathan Howell,Potential Loyalists,9,1,106.60855555555555
+JB-15925,Joni Blumstein,Lost,8,1,112.569
+DS-13180,David Smith,Loyal Customers,20,1,144.09064
+VD-21670,Valerie Dominguez,Loyal Customers,16,1,402.640875
+EA-14035,Erin Ashbrook,Loyal Customers,25,1,113.8682
+DB-13120,David Bremer,Loyal Customers,14,1,212.36385714285714
+KL-16645,Ken Lonsdale,Loyal Customers,29,1,488.80100000000004
+DW-13480,Dianna Wilson,At Risk,11,1,479.2389090909091
+LH-17155,Logan Haushalter,At Risk,19,1,91.56257894736842
+KC-16540,Kelly Collister,Lost,5,1,781.6524000000001
+DL-13315,Delfina Latchford,Potential Loyalists,17,1,85.77988235294117
+DR-12880,Dan Reichenbach,Champions,24,1,272.00141666666667
+CC-12670,Craig Carreira,Loyal Customers,14,1,162.12153571428573
+Dl-13600,Dorris liebe,At Risk,6,1,125.93366666666667
+SB-20290,Sean Braxton,Loyal Customers,17,1,473.9935882352941
+RC-19825,Roy Collins,At Risk,10,1,96.6409
+AH-10210,Alan Hwang,Champions,13,1,369.64184615384613
+CB-12535,Claudia Bergmann,Loyal Customers,19,1,223.49765789473685
+CA-12310,Christine Abelman,Lost,11,1,129.26854545454546
+KH-16690,Kristen Hastings,Loyal Customers,15,1,399.3866
+BB-10990,Barry Blumstein,At Risk,8,1,93.04249999999999
+AG-10495,Andrew Gjertsen,Loyal Customers,21,1,112.23119047619048
+JO-15280,Jas O'Carroll,At Risk,11,1,175.84290909090907
+AH-10195,Alan Haines,Lost,8,1,198.4315
+NZ-18565,Nick Zandusky,Loyal Customers,20,1,124.4155
+KL-16555,Kelly Lampkin,Champions,22,1,228.02218181818182
+AS-10225,Alan Schoenberger,Potential Loyalists,13,1,327.75261538461535
+CR-12625,Corey Roper,Lost,4,1,118.975
+SH-20395,Shahid Hopkins,Potential Loyalists,15,1,145.38119999999998
+BP-11185,Ben Peterman,Loyal Customers,18,1,204.2145
+TS-21205,Thomas Seio,Loyal Customers,19,1,282.68894736842105
+AG-10525,Andy Gerbode,Lost,9,1,161.6708888888889
+SP-20860,Sung Pak,Loyal Customers,24,1,178.45583333333332
+NM-18445,Nathan Mautz,Loyal Customers,14,1,461.3817142857143
+FA-14230,Frank Atkinson,Loyal Customers,17,1,175.53258823529413
+GK-14620,Grace Kelly,Loyal Customers,14,1,464.09071428571434
+DJ-13510,Don Jones,Loyal Customers,13,1,192.43753846153842
+PO-18850,Patrick O'Brill,Champions,22,1,339.7194636363636
+JL-15850,John Lucas,At Risk,11,1,247.75054545454543
+DB-13615,Doug Bickford,Potential Loyalists,11,1,180.82272727272726
+AC-10420,Alyssa Crouse,Lost,5,1,185.16
+CC-12550,Clay Cheatham,Lost,4,1,28.458
+TD-20995,Tamara Dahlen,Potential Loyalists,16,1,89.65925000000001
+AB-10060,Adam Bellavance,Loyal Customers,18,1,430.86777777777775
+JL-15505,Jeremy Lonsdale,Potential Loyalists,17,1,186.6984705882353
+VB-21745,Victoria Brennan,Potential Loyalists,10,1,200.5596
+KW-16435,Katrina Willman,At Risk,10,1,441.65199999999993
+JD-16060,Julia Dunbar,Lost,6,1,115.907
+MK-17905,Michael Kennedy,Loyal Customers,17,1,135.43341176470588
+GT-14755,Guy Thornton,Lost,7,1,32.348
+AG-10900,Arthur Gainer,Loyal Customers,21,1,214.79985714285712
+MM-18280,Muhammed MacIntyre,At Risk,12,1,64.61783333333334
+AR-10405,Allen Rosenblatt,At Risk,7,1,319.44685714285714
+RA-19915,Russell Applegate,Champions,22,1,217.88831818181816
+AS-10285,Alejandro Savely,Potential Loyalists,8,1,401.7795
+LA-16780,Laura Armstrong,Loyal Customers,26,1,333.5854615384615
+DO-13435,Denny Ordway,At Risk,13,1,100.00242307692308
+DK-13225,Dean Katz,Champions,19,1,252.75757894736844
+NG-18430,Nathan Gelder,Potential Loyalists,9,1,155.1042222222222
+MV-18190,Mike Vittorini,Potential Loyalists,11,1,157.68854545454545
+JG-15115,Jack Garza,Lost,7,1,336.9537142857143
+BP-11095,Bart Pistole,Loyal Customers,20,1,122.1022
+VP-21730,Victor Preis,Lost,5,1,198.7804
+SS-20140,Saphhira Shifley,Potential Loyalists,21,1,63.04895238095238
+AG-10675,Anna Gayman,Loyal Customers,15,1,232.60264000000004
+LF-17185,Luke Foster,Loyal Customers,16,1,245.65681249999997
+RF-19840,Roy Französisch,Potential Loyalists,11,1,85.92927272727273
+KH-16510,Keith Herrera,Loyal Customers,23,1,258.81995652173913
+KC-16675,Kimberly Carter,Lost,7,1,163.72142857142856
+CJ-12010,Caroline Jumper,Loyal Customers,20,1,558.2487
+PB-19150,Philip Brown,At Risk,11,1,132.45000000000002
+MP-17965,Michael Paige,Loyal Customers,20,1,199.18210000000002
+NF-18385,Natalie Fritzler,Loyal Customers,14,1,594.4875714285714
+SD-20485,Shirley Daniels,Loyal Customers,21,1,291.481619047619
+KH-16630,Ken Heidel,Loyal Customers,17,1,230.5274117647059
+RB-19795,Ross Baird,Loyal Customers,18,1,312.96200000000005
+MK-18160,Mike Kennedy,Lost,11,1,93.78200000000001
+PO-19180,Philisse Overcash,Loyal Customers,18,1,271.8357222222222
+BB-11545,Brenda Bowman,Champions,20,1,338.2864
+TB-21595,Troy Blackwell,At Risk,7,1,198.2227142857143
+RB-19360,Raymond Buch,Loyal Customers,18,1,839.8521666666667
+EB-13705,Ed Braxton,Loyal Customers,12,1,303.7481666666667
+SC-20095,Sanjit Chand,Loyal Customers,22,1,642.8333636363636
+TN-21040,Tanja Norvell,Loyal Customers,12,1,260.85175
+JS-15940,Joni Sundaresam,At Risk,8,1,58.646125
+MH-17785,Maya Herman,At Risk,11,1,200.34345454545456
+JP-15520,Jeremy Pistek,Loyal Customers,16,1,227.224625
+JE-15475,Jeremy Ellison,At Risk,13,1,106.8216923076923
+JG-15805,John Grady,At Risk,9,1,167.44644444444444
+XP-21865,Xylona Preis,Loyal Customers,28,1,84.80921428571428
+EM-14065,Erin Mull,Lost,6,1,38.165
+MT-18070,Michelle Tran,Lost,11,1,119.94998181818183
+SA-20830,Sue Ann Reed,Loyal Customers,21,1,227.01626190476193
+CW-11905,Carl Weiss,Potential Loyalists,11,1,103.32654545454547
+AJ-10960,Astrea Jones,Lost,5,1,125.84959999999998
+SS-20590,Sonia Sunley,At Risk,9,1,46.49888888888889
+RO-19780,Rose O'Brian,Loyal Customers,12,1,317.9565
+MD-17350,Maribeth Dona,Loyal Customers,17,1,221.5518823529412
+MY-17380,Maribeth Yedwab,Potential Loyalists,13,1,173.40653846153845
+CM-12385,Christopher Martinez,Lost,10,1,895.4019999999998
+LS-17245,Lynn Smith,Potential Loyalists,12,1,84.01133333333334
+BN-11515,Bradley Nguyen,Potential Loyalists,17,1,85.84376470588235
+DB-13210,Dean Braden,Loyal Customers,21,1,111.07509523809524
+MC-17605,Matt Connell,Loyal Customers,18,1,125.45511111111111
+BD-11605,Brian Dahlen,Loyal Customers,20,1,164.42355
+PH-18790,Patricia Hirasaki,Lost,2,1,364.824
+MG-18145,Mike Gockenbach,Lost,8,1,382.692875
+KB-16240,Karen Bern,Loyal Customers,10,1,315.2615
+JC-15340,Jasper Cacioppo,Lost,4,1,17.81575
+RL-19615,Rob Lucas,Loyal Customers,24,1,259.78791666666666
+AA-10375,Allen Armold,Potential Loyalists,15,1,70.426
+EP-13915,Emily Phan,Champions,31,1,176.71163870967743
+DK-12985,Darren Koutras,Potential Loyalists,8,1,210.88
+BD-11500,Bradley Drucker,Potential Loyalists,10,1,441.12429999999995
+LM-17065,Liz MacKendrick,At Risk,7,1,192.3962857142857
+AS-10135,Adrian Shami,Lost,3,1,19.606666666666666
+BD-11320,Bill Donatelli,Loyal Customers,19,1,300.9747894736842
+GT-14710,Greg Tran,Loyal Customers,29,1,407.5903448275862
+AJ-10945,Ashley Jarboe,At Risk,10,1,183.924
+OT-18730,Olvera Toch,Potential Loyalists,10,1,381.8624
+LP-17080,Liz Pelletier,Lost,9,1,84.06733333333334
+CA-12775,Cynthia Arntzen,Loyal Customers,17,1,178.9156470588235
+JF-15490,Jeremy Farry,At Risk,15,1,72.19453333333333
+FP-14320,Frank Preis,Loyal Customers,14,1,289.0532857142857
+EB-13840,Ellis Ballard,At Risk,8,1,544.766
+JF-15415,Jennifer Ferguson,Potential Loyalists,14,1,169.38914285714284
+SF-20200,Sarah Foster,Loyal Customers,15,1,228.1857333333333
+TG-21640,Trudy Glocke,Lost,10,1,207.4661
+CS-11950,Carlos Soltero,Loyal Customers,22,1,138.02486363636365
+CC-12145,Charles Crestani,Loyal Customers,11,1,224.69545454545457
+DV-13465,Dianna Vittorini,Potential Loyalists,15,1,222.77246666666667
+BD-11725,Bruce Degenhardt,At Risk,10,1,152.65
+ZC-21910,Zuschuss Carroll,Loyal Customers,31,1,258.8937741935484
+MS-17830,Melanie Seite,Lost,5,1,74.06960000000001
+LR-16915,Lena Radford,Potential Loyalists,16,1,321.43075
+TP-21130,Theone Pippenger,Champions,16,1,278.37850000000003
+CK-12205,Chloris Kastensmidt,Loyal Customers,32,1,98.58921875
+AS-10240,Alan Shonely,At Risk,13,1,44.969846153846156
+AR-10510,Andrew Roberts,Potential Loyalists,7,1,37.83771428571429
+NB-18655,Nona Balk,Potential Loyalists,17,1,116.03523529411764
+GD-14590,Giulietta Dortch,Lost,6,1,314.67833333333334
+CK-12595,Clytie Kelty,Loyal Customers,25,1,94.91
+NG-18355,Nat Gilpin,Potential Loyalists,16,1,116.84875
+CA-12265,Christina Anderson,Loyal Customers,17,1,155.78160000000003
+SF-20965,Sylvia Foulston,Loyal Customers,17,1,196.26676470588234
+MO-17800,Meg O'Connel,At Risk,11,1,153.3660909090909
+AT-10735,Annie Thurman,Champions,16,1,239.4915
+FM-14380,Fred McMath,Loyal Customers,14,1,180.23328571428573
+DJ-13420,Denny Joy,Lost,5,1,402.504
+ME-17725,Max Engle,Potential Loyalists,13,1,146.80409230769231
+JD-16150,Justin Deggeller,Loyal Customers,17,1,519.2959117647059
+JL-15835,John Lee,Champions,34,1,288.23302941176473
+SC-20305,Sean Christensen,Loyal Customers,12,1,331.58875
+CC-12430,Chuck Clark,Loyal Customers,19,1,151.05526315789476
+AR-10825,Anthony Rawles,Loyal Customers,13,1,347.9489230769231
+SR-20740,Steven Roelle,Loyal Customers,12,1,362.1571666666666
+CR-12730,Craig Reiter,Lost,6,1,266.7583333333333
+EH-14125,Eugene Hildebrand,Loyal Customers,18,1,171.2585
+SP-20545,Sibella Parks,At Risk,10,1,130.6086
+TH-21235,Tiffany House,At Risk,13,1,78.63084615384615
+RP-19390,Resi Pölking,Loyal Customers,25,1,206.12336
+RB-19570,Rob Beeghly,Potential Loyalists,9,1,58.72733333333334
+CD-11980,Carol Darley,Lost,6,1,106.62766666666666
+DJ-13630,Doug Jacobs,Lost,8,1,419.54975
+GT-14635,Grant Thornton,Lost,6,1,1558.5353333333333
+MC-17845,Michael Chen,Loyal Customers,14,1,271.83671428571427
+RA-19285,Ralph Arnett,Loyal Customers,17,1,153.9944705882353
+NP-18325,Naresj Patel,Loyal Customers,21,1,263.3152380952381
+AB-10165,Alan Barnes,Potential Loyalists,14,1,79.55985714285714
+JO-15550,Jesus Ocampo,At Risk,11,1,99.1670909090909
+JK-15370,Jay Kimmel,Loyal Customers,17,1,159.39011764705882
+BN-11470,Brad Norvell,Lost,6,1,44.216
+DP-13165,David Philippe,Lost,4,1,264.654
+TH-21550,Tracy Hopkins,Loyal Customers,13,1,325.6996923076923
+AP-10915,Arthur Prichep,Loyal Customers,31,1,107.21148387096774
+RS-19765,Roland Schwarz,Loyal Customers,14,1,297.12642857142856
+SV-20365,Seth Vernon,Loyal Customers,32,1,358.46718749999997
+CK-12325,Christine Kargatis,At Risk,12,1,245.44341666666665
+RD-19810,Ross DeVincentis,Potential Loyalists,16,1,71.101
+MR-17545,Mathew Reese,Lost,6,1,106.52966666666667
+SC-20695,Steve Chapman,Loyal Customers,14,1,184.02914285714286
+JF-15355,Jay Fein,At Risk,16,1,119.49025
+EG-13900,Emily Grady,Potential Loyalists,9,1,203.55777777777777
+DS-13030,Darrin Sayre,Lost,19,1,92.74805263157894
+PO-19195,Phillina Ober,At Risk,10,1,105.6858
+SS-20875,Sung Shariari,At Risk,15,1,64.30906666666667
+PB-19105,Peter Bühler,Lost,5,1,137.66479999999999
+RF-19735,Roland Fjeld,Loyal Customers,14,1,167.2354285714286
+YC-21895,Yoseph Carroll,Potential Loyalists,8,1,681.79375
+DC-13285,Debra Catini,Potential Loyalists,7,1,167.8025714285714
+CP-12340,Christine Phan,Loyal Customers,15,1,392.5516666666666
+BF-11020,Barry Französisch,Loyal Customers,21,1,137.54790476190476
+LH-17020,Lisa Hazard,Lost,6,1,53.03983333333333
+CS-12250,Chris Selesnick,Loyal Customers,28,1,98.36485714285713
+AJ-10795,Anthony Johnson,Loyal Customers,21,1,214.35195238095235
+BV-11245,Benjamin Venier,At Risk,14,1,108.8052142857143
+DL-12865,Dan Lawera,At Risk,14,1,107.36514285714286
+BM-11785,Bryan Mills,At Risk,14,1,95.63157142857143
+LT-17110,Liz Thompson,Loyal Customers,14,1,209.73228571428572
+JK-15730,Joe Kamberova,Loyal Customers,20,1,243.35999999999999
+ES-14020,Erica Smith,Potential Loyalists,8,1,438.80724999999995
+RH-19495,Rick Hansen,Potential Loyalists,8,1,452.67199999999997
+CD-11920,Carlos Daly,Potential Loyalists,9,1,225.99644444444445
+HW-14935,Helen Wasserman,Loyal Customers,20,1,465.01270000000005
+MC-18130,Mike Caudle,At Risk,11,1,143.81799999999998
+GM-14440,Gary McGarr,Loyal Customers,11,1,325.71090909090907
+PJ-19015,Pauline Johnson,At Risk,10,1,182.42340000000002
+BW-11110,Bart Watters,Loyal Customers,17,1,279.4328235294118
+TR-21325,Toby Ritter,At Risk,7,1,96.56314285714284
+PG-18820,Patrick Gardner,Loyal Customers,26,1,118.72719230769232
+JL-15175,James Lanier,Potential Loyalists,7,1,224.5032857142857
+BM-11650,Brian Moss,Loyal Customers,29,1,251.5236206896552
+EM-14095,Eudokia Martin,Lost,10,1,104.10420000000002
+AF-10885,Art Foster,Lost,7,1,123.0807142857143
+GA-14725,Guy Armstrong,Potential Loyalists,22,1,63.56281818181819
+CK-12760,Cyma Kinney,At Risk,14,1,113.0077857142857
+DP-13105,Dave Poirier,Potential Loyalists,14,1,158.21442857142856
+BK-11260,Berenike Kampe,At Risk,16,1,41.196124999999995
+SJ-20125,Sanjit Jacobs,Loyal Customers,24,1,164.569
+CM-12445,Chuck Magee,Lost,9,1,31.99888888888889
+AJ-10780,Anthony Jacobs,Loyal Customers,15,1,324.4896
+LS-16945,Linda Southworth,At Risk,14,1,203.23357142857142
+GP-14740,Guy Phonely,Lost,5,1,47.306
+PK-18910,Paul Knutson,Lost,3,1,480.384
+SM-20005,Sally Matthias,Lost,6,1,40.748999999999995
+AG-10765,Anthony Garverick,Lost,5,1,34.1168
+PM-19135,Peter McVee,Lost,7,1,587.9517142857143
+LL-16840,Lauren Leatherbury,At Risk,12,1,228.43366666666665
+JS-15595,Jill Stevenson,Lost,8,1,177.20675
+EL-13735,Ed Ludwig,Lost,2,1,62.14
+PC-18745,Pamela Coakley,Lost,5,1,366.4128
+HL-15040,Hunter Lopez,Potential Loyalists,11,1,1170.2998181818182
+MS-17365,Maribeth Schnelling,Loyal Customers,24,1,310.15375
+GB-14530,George Bell,Potential Loyalists,20,1,78.422
+JR-16210,Justin Ritter,Potential Loyalists,10,1,220.16860000000003
+BE-11335,Bill Eplett,At Risk,9,1,467.1862222222223
+SC-20050,Sample Company A,Loyal Customers,15,1,308.3048
+RW-19630,Rob Williams,Loyal Customers,16,1,204.984125
+SE-20110,Sanjit Engle,Champions,19,1,642.6020000000001
+AH-10075,Adam Hart,Loyal Customers,20,1,162.51685
+JM-15535,Jessica Myrick,At Risk,10,1,173.3443
+JJ-15760,Joel Jenkins,Lost,3,1,65.0
+RK-19300,Ralph Kennedy,Lost,8,1,182.524
+CG-12040,Catherine Glotzbach,Potential Loyalists,9,1,100.49644444444445
+RP-19270,Rachel Payne,Lost,12,1,79.55376666666668
+KC-16255,Karen Carlisle,At Risk,10,1,212.0954
+KH-16360,Katherine Hughes,Potential Loyalists,14,1,221.47228571428573
+GH-14665,Greg Hansen,Lost,3,1,48.98026666666667
+SW-20275,Scott Williamson,Potential Loyalists,7,1,280.95
+JA-15970,Joseph Airdo,Loyal Customers,24,1,270.45941666666664
+DL-12925,Daniel Lacy,Potential Loyalists,14,1,233.72857142857143
+LW-16990,Lindsay Williams,Potential Loyalists,11,1,293.66436363636365
+TB-21190,Thomas Brumley,Lost,4,1,204.04350000000002
+BS-11800,Bryan Spruell,Lost,8,1,118.67875000000001
+RW-19690,Robert Waldorf,At Risk,15,1,233.04306666666668
+TZ-21580,Tracy Zic,Lost,9,1,189.69844444444445
+AS-10630,Ann Steele,At Risk,12,1,69.44983333333333
+TS-21340,Toby Swindell,At Risk,12,1,81.23183333333333
+SL-20155,Sara Luxemburg,Loyal Customers,9,1,339.22355555555555
+MW-18235,Mitch Willingham,Lost,3,1,1751.2920000000001
+RD-19585,Rob Dowd,Loyal Customers,19,1,153.3102105263158
+RA-19945,Ryan Akin,Potential Loyalists,9,1,187.43583333333333
+MT-17815,Meg Tillman,Loyal Customers,10,1,289.01390000000004
+VG-21790,Vivek Gonzalez,At Risk,8,1,105.75125
+JS-15880,John Stevenson,At Risk,9,1,429.78
+KM-16225,Kalyca Meade,Potential Loyalists,19,1,118.99778947368422
+HR-14770,Hallie Redmond,Potential Loyalists,13,1,99.94523076923078
+DE-13255,Deanra Eno,At Risk,9,1,283.43044444444445
+AG-10390,Allen Goldenen,At Risk,8,1,25.118125
+JJ-15445,Jennifer Jackson,At Risk,6,1,118.19633333333333
+JH-15430,Jennifer Halladay,Lost,7,1,44.183
+RD-19660,Robert Dilbeck,At Risk,5,1,557.3264
+MO-17500,Mary O'Rourke,Lost,5,1,184.4974
+NS-18640,Noel Staavos,Loyal Customers,26,1,114.03165384615384
+DG-13300,Deirdre Greer,Potential Loyalists,8,1,399.47725
+NF-18595,Nicole Fjeld,At Risk,12,1,169.28933333333333
+MG-17650,Matthew Grinstein,Loyal Customers,14,1,270.37685714285715
+TS-21160,Theresa Swint,At Risk,17,1,127.27200000000002
+BD-11620,Brian DeCherney,Potential Loyalists,8,1,192.26375
+CM-12160,Charles McCrossin,Potential Loyalists,7,1,361.902
+SN-20560,Skye Norling,At Risk,15,1,124.02786666666665
+EH-14005,Erica Hernandez,Potential Loyalists,11,1,110.86636363636363
+FO-14305,Frank Olsen,Loyal Customers,15,1,178.56253333333333
+MS-17710,Maurice Satty,At Risk,15,1,107.56013333333334
+CC-12100,Chad Cunningham,At Risk,13,1,136.22653846153847
+DW-13540,Don Weiss,At Risk,9,1,38.23111111111111
+BT-11395,Bill Tyler,At Risk,10,1,218.66130000000004
+CY-12745,Craig Yedwab,Loyal Customers,11,1,263.63872727272724
+BT-11485,Brad Thomas,Lost,3,1,138.39866666666666
+PS-19045,Penelope Sewall,Loyal Customers,13,1,526.4333846153846
+PV-18985,Paul Van Hugh,At Risk,13,1,221.23430769230768
+NM-18520,Neoma Murray,At Risk,15,1,144.1319333333333
+DL-13495,Dionis Lloyd,Loyal Customers,12,1,294.94350000000003
+CS-12355,Christine Sundaresam,Loyal Customers,22,1,145.5528181818182
+FH-14275,Frank Hawley,Loyal Customers,21,1,202.67961904761904
+NC-18340,Nat Carroll,At Risk,17,1,144.7884705882353
+AA-10315,Alex Avila,Lost,11,1,505.77818181818185
+LT-16765,Larry Tron,Lost,3,1,109.95866666666666
+AP-10720,Anne Pryor,Potential Loyalists,19,1,86.23968421052632
+PM-18940,Paul MacIntyre,Lost,4,1,351.3505
+AT-10435,Alyssa Tate,Potential Loyalists,9,1,130.20155555555556
+CA-12055,Cathy Armstrong,At Risk,10,1,167.97240000000002
+HR-14830,Harold Ryan,Loyal Customers,14,1,374.91335714285714
+BT-11530,Bradley Talbott,At Risk,10,1,268.44919999999996
+LH-16750,Larry Hughes,Lost,3,1,95.80866666666667
+SW-20755,Steven Ward,Lost,8,1,94.83699999999999
+SP-20620,Stefania Perrino,Loyal Customers,24,1,226.67995833333336
+BF-11170,Ben Ferrer,Champions,27,1,218.81377777777777
+KT-16480,Kean Thornton,Loyal Customers,13,1,357.0837230769231
+BG-11695,Brooke Gillingham,Potential Loyalists,8,1,234.2715
+GM-14680,Greg Matthias,At Risk,11,1,287.60254545454546
+EJ-14155,Eva Jacobs,Potential Loyalists,8,1,332.086375
+NP-18700,Nora Preis,Loyal Customers,13,1,607.9371153846154
+MH-18115,Mick Hernandez,Champions,22,1,250.1405909090909
+JR-15700,Jocasta Rupert,Lost,1,0,863.88
+SM-20950,Suzanne McNair,Champions,22,1,252.88145454545455
+CC-12220,Chris Cortes,Champions,22,1,177.88263636363638
+PF-19225,Phillip Flathmann,At Risk,10,1,220.61279999999996
+DC-12850,Dan Campbell,Loyal Customers,18,1,185.34266666666667
+BD-11770,Bryan Davis,At Risk,10,1,65.8466
+GM-14500,Gene McClure,At Risk,13,1,96.59092307692308
+TB-21355,Todd Boyes,At Risk,13,1,64.17907692307692
+JH-16180,Justin Hirsh,Lost,5,1,451.27880000000005
+EB-13975,Erica Bern,Lost,6,1,273.87583333333333
+QJ-19255,Quincy Jones,Champions,13,1,469.8721538461538
+TC-21535,Tracy Collins,Potential Loyalists,10,1,74.25580000000001
+CS-12460,Chuck Sachs,Lost,6,1,91.774
+HG-14965,Henry Goldwyn,Loyal Customers,17,1,191.03776470588235
+LW-16825,Laurel Workman,At Risk,15,1,149.20406666666668
+MC-17575,Matt Collins,Potential Loyalists,11,1,118.53572727272727
+LP-17095,Liz Preis,Loyal Customers,15,1,243.55993333333333
+EB-14170,Evan Bailliet,At Risk,7,1,169.47514285714286
+GZ-14545,George Zrebassa,Lost,5,1,490.92440000000005
+CP-12085,Cathy Prescott,Loyal Customers,14,1,385.8752857142857
+FG-14260,Frank Gastineau,Potential Loyalists,11,1,125.74036363636364
+LD-17005,Lisa DeCherney,Lost,7,1,280.27628571428573
+AB-10255,Alejandro Ballentine,At Risk,14,1,65.32371428571427
+MN-17935,Michael Nguyen,Loyal Customers,10,1,247.7946
+JR-15670,Jim Radford,Lost,3,1,385.55266666666665
+JF-15190,Jamie Frazer,Loyal Customers,19,1,119.9782105263158
+CM-12115,Chad McGuire,Lost,7,1,237.37285714285716
+AS-10045,Aaron Smayling,Loyal Customers,10,1,305.0692
+BP-11290,Beth Paige,Loyal Customers,16,1,154.6973125
+ND-18370,Natalie DeCherney,Champions,18,1,240.34105555555556
+LB-16735,Larry Blacks,Lost,3,1,16.729333333333333
+KT-16465,Kean Takahito,Loyal Customers,14,1,218.3642857142857
+HM-14860,Harry Marie,Champions,20,1,411.83824000000004
+AB-10600,Ann Blume,Lost,8,1,189.48275
+SZ-20035,Sam Zeldin,Loyal Customers,20,1,181.26645000000002
+MG-17890,Michael Granlund,At Risk,13,1,59.72184615384616
+JK-16120,Julie Kriz,Loyal Customers,17,1,172.4990588235294
+PP-18955,Paul Prost,Loyal Customers,34,1,213.312
+YS-21880,Yana Sorensen,Champions,12,1,560.0369999999999
+KM-16375,Katherine Murray,Loyal Customers,20,1,281.0093
+AB-10105,Adrian Barton,Loyal Customers,20,1,723.6785499999999
+HA-14905,Helen Abelman,Potential Loyalists,10,1,216.33
+BT-11305,Beth Thompson,At Risk,9,1,285.2951111111111
+SV-20815,Stuart Van,Lost,6,1,211.84833333333336
+RW-19540,Rick Wilson,Loyal Customers,23,1,321.6261304347826
+DK-12835,Damala Kotsonis,Loyal Customers,27,1,120.61037037037038
+ST-20530,Shui Tom,At Risk,12,1,36.11166666666667
+MM-17920,Michael Moore,Champions,16,1,237.13000000000002
+PW-19030,Pauline Webber,Loyal Customers,13,1,265.76276923076927
+SC-20440,Shaun Chance,Potential Loyalists,10,1,187.4998
+TS-21085,Thais Sissman,Lost,2,1,2.4165
+MC-17425,Mark Cousins,At Risk,10,1,443.2138
+ME-17320,Maria Etezadi,Loyal Customers,22,1,484.71490909090915
+NH-18610,Nicole Hansen,Loyal Customers,11,1,243.02636363636364
+MB-18085,Mick Brown,Potential Loyalists,10,1,142.8231
+KD-16495,Keith Dawkins,Loyal Customers,28,1,292.1877142857143
+KN-16390,Katherine Nockton,Loyal Customers,17,1,153.95717647058822
+NP-18685,Nora Pelletier,At Risk,7,1,175.52828571428572
+CS-12505,Cindy Stewart,Potential Loyalists,9,1,632.2283333333332
+MS-17770,Maxwell Schwartz,Loyal Customers,19,1,165.5093684210526
+CM-12655,Corinna Mitchell,Potential Loyalists,10,1,633.95576
+Co-12640,Corey-Lock,At Risk,8,1,162.5095
+TS-21370,Todd Sumrall,Loyal Customers,15,1,792.7834
+JW-15220,Jane Waco,Potential Loyalists,14,1,551.551
+JD-15790,John Dryer,At Risk,7,1,307.4788571428571
+PC-19000,Pauline Chand,Lost,3,1,353.82933333333335
+AR-10540,Andy Reiter,Potential Loyalists,9,1,734.272
+AI-10855,Arianne Irving,Champions,18,1,243.09922222222224
+TB-21400,Tom Boeckenhauer,Loyal Customers,17,1,537.2935294117647
+PL-18925,Paul Lucas,Potential Loyalists,8,1,29.935125
+GH-14425,Gary Hwang,Lost,10,1,417.28460000000007
+MP-18175,Mike Pelletier,Champions,19,1,267.78526315789475
+JM-15655,Jim Mitchum,Potential Loyalists,12,1,72.07891666666667
+CL-11890,Carl Ludwig,Lost,7,1,180.28771428571432
+DB-13270,Deborah Brumfield,Loyal Customers,13,1,358.14592307692305
+IG-15085,Ivan Gibson,Lost,7,1,106.36771428571429
+BO-11425,Bobby Odegard,Lost,2,1,65.415
+AB-10150,Aimee Bixby,Lost,12,1,80.55916666666667
+JW-16075,Julia West,Lost,7,1,204.10442857142857
+EB-13750,Edward Becker,Loyal Customers,20,1,161.8157
+SG-20470,Sheri Gordon,At Risk,14,1,134.62842857142857
+CM-12190,Charlotte Melton,Potential Loyalists,7,1,210.73485714285715
+AW-10840,Anthony Witt,Lost,8,1,81.172
+MC-18100,Mick Crebagga,Potential Loyalists,19,1,116.78842105263158
+TT-21460,Tonja Turnell,Loyal Customers,14,1,383.20057142857144
+VG-21805,Vivek Grady,At Risk,6,1,71.22866666666667
+MY-18295,Muhammed Yedwab,Loyal Customers,21,1,197.74742857142857
+RD-19480,Rick Duston,Loyal Customers,15,1,284.862
+DP-13390,Dennis Pardue,Loyal Customers,14,1,391.4802857142857
+ML-17395,Marina Lichtenstein,Loyal Customers,20,1,136.14215
+JC-15385,Jenna Caffey,Lost,4,1,264.527
+JG-15160,James Galang,Champions,18,1,353.68844444444443
+MC-17275,Marc Crier,Loyal Customers,13,1,209.69092307692307
+NW-18400,Natalie Webber,Loyal Customers,22,1,328.8188181818182
+TB-21280,Toby Braunhardt,At Risk,11,1,199.8590909090909
+BS-11380,Bill Stewart,Potential Loyalists,13,1,299.06415384615383
+HH-15010,Hilary Holden,Lost,6,1,36.44466666666667
+CD-12280,Christina DeMoss,Lost,13,1,92.73723076923078
+TH-21100,Thea Hendricks,At Risk,7,1,346.11771428571427
+MM-18055,Michelle Moray,Loyal Customers,19,1,144.7305789473684
+NS-18505,Neola Schneider,Lost,15,1,171.7242
+RB-19645,Robert Barroso,At Risk,7,1,31.583428571428573
+SW-20455,Shaun Weien,Loyal Customers,9,1,324.616
+EB-13930,Eric Barreto,At Risk,7,1,134.94285714285715
+PS-18760,Pamela Stobb,At Risk,21,1,103.87995238095237
+HF-14995,Herbert Flentye,Loyal Customers,19,1,133.32442105263158
+HZ-14950,Henia Zydlo,Potential Loyalists,6,1,147.75333333333333
+CD-12790,Cynthia Delaney,At Risk,15,1,124.0488
+JK-15205,Jamie Kunitz,Potential Loyalists,13,1,340.5493846153846
+FM-14215,Filia McAdams,Loyal Customers,15,1,163.77586666666667
+ED-13885,Emily Ducich,Loyal Customers,14,1,248.92285714285714
+DA-13450,Dianna Arnett,Lost,8,1,19.595
+JW-15955,Joni Wasserman,Potential Loyalists,11,1,113.09872727272727
+RM-19375,Raymond Messe,At Risk,9,1,161.4971111111111
+ML-17755,Max Ludwig,Potential Loyalists,13,1,159.378
+CC-12685,Craig Carroll,Lost,12,1,237.8429166666667
+JE-15610,Jim Epp,Loyal Customers,20,1,387.74879999999996
+RP-19855,Roy Phan,Potential Loyalists,15,1,144.71439999999998
+TB-21175,Thomas Boland,Lost,11,1,326.29963636363635
+BE-11455,Brad Eason,At Risk,13,1,132.8963076923077
+JF-15565,Jill Fjeld,Loyal Customers,16,1,262.39575
+PB-19210,Phillip Breyer,Lost,2,1,66.369
+BT-11680,Brian Thompson,Loyal Customers,20,1,159.8376
+JL-15235,Janet Lee,At Risk,10,1,220.36999999999998
+CH-12070,Cathy Hwang,Lost,4,1,384.309
+ND-18460,Neil Ducich,Loyal Customers,8,1,361.681875
+BF-10975,Barbara Fisher,At Risk,13,1,46.13830769230769
+KH-16330,Katharine Harms,Loyal Customers,18,1,184.048
+GW-14605,Giulietta Weimer,Potential Loyalists,9,1,243.2243333333333
+NC-18625,Noah Childs,At Risk,9,1,202.41577777777778
+ME-18010,Michelle Ellison,Lost,6,1,209.49066666666667
+BP-11230,Benjamin Patterson,Potential Loyalists,6,1,196.915
+JC-15775,John Castell,Loyal Customers,16,1,173.2534375
+AS-10090,Adam Shillingsburg,Loyal Customers,25,1,130.2124
+AC-10450,Amy Cox,Loyal Customers,9,1,614.205111111111
+MD-17860,Michael Dominguez,Potential Loyalists,8,1,150.61375
+DB-13660,Duane Benoit,Potential Loyalists,10,1,115.5202
+EH-13990,Erica Hackney,At Risk,8,1,103.24374999999999
+EH-13765,Edward Hooks,Loyal Customers,32,1,322.21500000000003
+SC-20230,Scot Coram,Lost,11,1,397.4507272727273
+JE-15715,Joe Elijah,Loyal Customers,22,1,395.3564999999999
+AC-10615,Ann Chong,Lost,18,1,140.98255555555554
+JD-16015,Joy Daniels,At Risk,11,1,35.03909090909091
+CB-12415,Christy Brittain,Potential Loyalists,12,1,162.43333333333334
+JS-16030,Joy Smith,Potential Loyalists,18,1,139.80522222222223
+LW-17215,Luke Weiss,Loyal Customers,15,1,361.3676
+SC-20800,Stuart Calhoun,Lost,5,1,55.851200000000006
+AM-10705,Anne McFarland,Loyal Customers,22,1,257.4555454545455
+RH-19510,Rick Huthwaite,Loyal Customers,12,1,581.5983333333334
+CT-11995,Carol Triggs,Loyal Customers,18,1,180.10544444444446
+MC-17590,Matt Collister,Loyal Customers,17,1,142.70982352941178
+CC-12610,Corey Catlett,Loyal Customers,12,1,211.71925
+KA-16525,Kelly Andreada,Potential Loyalists,11,1,138.13690909090909
+TC-20980,Tamara Chand,At Risk,12,1,1587.6848333333335
+BF-11080,Bart Folk,Lost,6,1,45.49166666666667
+MM-17260,Magdelene Morse,Lost,6,1,219.00383333333332
+AH-10120,Adrian Hane,Potential Loyalists,16,1,108.46962500000001
+BW-11200,Ben Wallace,At Risk,10,1,173.8406
+SW-20245,Scot Wooten,At Risk,10,1,108.5078
+BS-11665,Brian Stugart,Lost,11,1,298.91909090909087
+RF-19345,Randy Ferguson,Loyal Customers,16,1,206.821875
+WB-21850,William Brown,Champions,37,1,166.48924324324324
+TB-21625,Trudy Brown,Loyal Customers,15,1,186.5112
+AF-10870,Art Ferguson,Potential Loyalists,16,1,128.30675
+RB-19435,Richard Bierner,Loyal Customers,16,1,166.44287500000002
+KF-16285,Karen Ferguson,Loyal Customers,18,1,589.1258888888889
+JH-15820,John Huston,At Risk,8,1,66.11375
+IL-15100,Ivan Liston,Loyal Customers,14,1,360.0525714285714
+PB-18805,Patrick Bzostek,Lost,10,1,74.0356
+RH-19600,Rob Haberlin,Lost,11,1,189.61272727272728
+AW-10930,Arthur Wiediger,Loyal Customers,16,1,178.3105
+ML-17410,Maris LaWare,Loyal Customers,15,1,194.76666666666668
+DB-13555,Dorothy Badders,Loyal Customers,14,1,279.2002
+MH-17620,Matt Hagelstein,Lost,6,1,208.79999999999998
+DK-13375,Dennis Kane,Loyal Customers,23,1,144.28199999999998
+BT-11440,Bobby Trafton,Lost,7,1,86.268
+DB-13405,Denny Blanton,Lost,14,1,122.26371428571429
+TG-21310,Toby Gnade,At Risk,9,1,339.8191111111111
+BF-11005,Barry Franz,Lost,10,1,133.388
+JM-16195,Justin MacKendrick,Loyal Customers,19,1,149.15400000000002
+MZ-17335,Maria Zettner,Lost,6,1,98.93433333333333
+MW-18220,Mitch Webber,Loyal Customers,14,1,381.56428571428575
+MV-17485,Mark Van Huff,Potential Loyalists,15,1,104.00333333333333
+SM-20320,Sean Miller,At Risk,15,1,1669.5366666666666
+TP-21415,Tom Prescott,At Risk,10,1,532.90048
+JK-15625,Jim Karlsson,Loyal Customers,12,1,313.33566666666667
+PJ-18835,Patrick Jones,Potential Loyalists,13,1,93.85307692307691
+RS-19420,Ricardo Sperren,At Risk,9,1,357.9211111111111
+SV-20935,Susan Vittorini,Potential Loyalists,13,1,146.4223846153846
+BC-11125,Becky Castell,Loyal Customers,18,1,162.982
+EM-13825,Elizabeth Moffitt,Loyal Customers,16,1,146.224875
+BM-11575,Brendan Murry,At Risk,10,1,80.81620000000001
+KN-16705,Kristina Nunn,Loyal Customers,15,1,152.03866666666667
+KW-16570,Kelly Williams,Lost,5,1,89.8192
+SC-20260,Scott Cohen,Loyal Customers,18,1,207.21072222222222
+CV-12295,Christina VanderZanden,At Risk,13,1,217.74061538461535
+SG-20605,Speros Goranitis,Loyal Customers,13,1,240.37169230769229
+TM-21010,Tamara Manning,Loyal Customers,19,1,155.53821052631577
+EM-13810,Eleni McCrary,At Risk,7,1,366.7157142857142
+ML-18040,Michelle Lonsdale,Lost,4,1,185.5205
+CR-12580,Clay Rozendal,Lost,6,1,358.142
+AZ-10750,Annie Zypern,At Risk,12,1,135.16816666666665
+PW-19240,Pierre Wener,Loyal Customers,12,1,326.8679166666667
+SC-20380,Shahid Collister,Champions,20,1,299.6268
+CM-11935,Carlos Meador,Lost,4,1,141.348
+GM-14695,Greg Maxwell,Lost,11,1,549.9969090909091
+TB-21250,Tim Brockman,At Risk,19,1,84.33557894736842
+JM-15865,John Murray,Loyal Customers,13,1,586.5443076923077
+SC-20575,Sonia Cooley,At Risk,7,1,128.96114285714287
+LS-17200,Luke Schmidt,At Risk,14,1,72.16114285714286
+RR-19315,Ralph Ritter,Lost,4,1,153.983
+DB-12910,Daniel Byrd,Potential Loyalists,12,1,180.96658333333335
+TT-21220,Thomas Thornton,At Risk,15,1,95.13626666666666
+LO-17170,Lori Olson,Potential Loyalists,9,1,71.59444444444445
+KD-16615,Ken Dana,At Risk,13,1,172.5776923076923
+NB-18580,Nicole Brennan,Lost,2,1,136.93599999999998
+BD-11635,Brian Derr,Lost,5,1,116.52919999999999
+CM-12235,Chris McAfee,At Risk,8,1,288.214
+EN-13780,Edward Nazzal,Lost,9,1,244.374
+KN-16450,Kean Nguyen,Potential Loyalists,8,1,271.49525
+BO-11350,Bill Overfelt,At Risk,12,1,223.56066666666666
+AG-10300,Aleksandra Gannaway,Lost,5,1,73.5096
+MC-17635,Matthew Clasen,Lost,8,1,99.39425
+TA-21385,Tom Ashbrook,Lost,10,1,1459.5620000000001
+JF-15295,Jason Fortune-,At Risk,14,1,68.22314285714286
+TT-21265,Tim Taslimi,Lost,3,1,146.5
+SB-20170,Sarah Bern,Lost,7,1,192.5742857142857
+CL-12700,Craig Leslie,At Risk,8,1,294.19825
+HG-15025,Hunter Glantz,Loyal Customers,11,1,335.4803636363636
+NL-18310,Nancy Lomonaco,Lost,10,1,141.80900000000003
+RR-19525,Rick Reed,Loyal Customers,10,1,330.22619999999995
+TC-21295,Toby Carlisle,Champions,16,1,266.67575
+SV-20785,Stewart Visinsky,Loyal Customers,25,1,164.21220000000002
+BE-11410,Bobby Elias,At Risk,5,1,452.2876
+SC-20680,Steve Carroll,At Risk,8,1,156.83
+DF-13135,David Flashing,Lost,6,1,398.42233333333337
+FH-14350,Fred Harton,Lost,14,1,162.23457142857143
+MS-17530,MaryBeth Skach,Lost,7,1,67.95085714285713
+RH-19555,Ritsa Hightower,Lost,3,1,246.79399999999998
+GA-14515,George Ashbrook,Loyal Customers,14,1,279.98400000000004
+JP-16135,Julie Prescott,At Risk,13,1,131.3623076923077
+Dp-13240,Dean percer,Loyal Customers,29,1,248.23313793103446
+MO-17950,Michael Oakman,Lost,4,1,38.572
+DL-13330,Denise Leinenbach,Lost,8,1,73.1275
+MH-18025,Michelle Huthwaite,Potential Loyalists,10,1,298.4948
+DR-12940,Daniel Raglin,Loyal Customers,13,1,642.3744615384616
+DM-13015,Darrin Martin,Loyal Customers,20,1,317.25515
+CA-11965,Carol Adams,At Risk,10,1,378.97228
+AC-10660,Anna Chung,Lost,6,1,109.55266666666667
+DM-13345,Denise Monton,Loyal Customers,13,1,313.42092307692303
+VF-21715,Vicky Freymann,Potential Loyalists,11,1,77.08581818181818
+CC-12370,Christopher Conant,Potential Loyalists,11,1,1102.6429090909094
+BF-11275,Beth Fritzler,Lost,4,1,197.99749999999997
+HG-14845,Harry Greene,Potential Loyalists,10,1,78.56280000000001
+BP-11155,Becky Pak,At Risk,11,1,154.351
+EM-14140,Eugene Moren,Potential Loyalists,21,1,218.49695238095242
+MA-17995,Michelle Arnett,At Risk,12,1,204.44033333333334
+AY-10555,Andy Yotov,Lost,10,1,49.7014
+GB-14575,Giulietta Baptist,Potential Loyalists,16,1,294.768
+JB-16045,Julia Barnett,Potential Loyalists,9,1,279.79055555555556
+MG-17875,Michael Grace,At Risk,7,1,177.54757142857142
+SR-20425,Sharelle Roach,Potential Loyalists,9,1,359.27566666666667
+JB-16000,Joy Bell-,Potential Loyalists,7,1,92.01697142857142
+DM-12955,Dario Medina,At Risk,9,1,146.89266666666668
+TC-21475,Tony Chapman,At Risk,11,1,113.17963636363638
+SW-20350,Sean Wendt,Lost,6,1,169.84066666666666
+RE-19450,Richard Eichhorn,At Risk,9,1,97.41066666666667
+BF-11215,Benjamin Farhat,Lost,8,1,198.14525
+KB-16405,Katrina Bavinger,Lost,9,1,100.98011111111111
+JG-15310,Jason Gross,Potential Loyalists,11,1,203.6890909090909
+EC-14050,Erin Creighton,Potential Loyalists,7,1,65.98771428571429
+EB-14110,Eugene Barchas,At Risk,11,1,279.19327272727276
+JP-15460,Jennifer Patt,Potential Loyalists,15,1,111.27566666666667
+CS-11845,Cari Sayre,At Risk,8,1,159.86925
+GH-14410,Gary Hansen,Loyal Customers,17,1,165.85099999999997
+PT-19090,Pete Takahito,Lost,7,1,22.93885714285714
+JL-15130,Jack Lebron,Potential Loyalists,12,1,101.24633333333333
+AH-10030,Aaron Hawkins,Potential Loyalists,11,1,158.60909090909092
+CC-12475,Cindy Chapman,Potential Loyalists,13,1,127.64907692307693
+DW-13195,David Wiener,Potential Loyalists,9,1,120.08344444444444
+SJ-20215,Sarah Jordon,Potential Loyalists,10,1,134.1036
+BG-11740,Bruce Geld,Potential Loyalists,7,1,143.76514285714285
+LB-16795,Laurel Beltran,Loyal Customers,24,1,207.7365
+CM-11815,Candace McMahon,At Risk,10,1,167.3888
+EH-14185,Evan Henry,At Risk,8,1,115.4855
+TS-21505,Tony Sayre,Potential Loyalists,14,1,160.23385714285715
+PR-18880,Patrick Ryan,Potential Loyalists,12,1,153.34816666666669
+LC-17050,Liz Carlisle,Potential Loyalists,9,1,232.78488888888887
+CS-12490,Cindy Schnelling,Lost,9,1,119.69205555555556
+DH-13075,Dave Hallsten,At Risk,23,1,214.47269565217394
+JO-15145,Jack O'Briant,Loyal Customers,13,1,250.3806923076923
+AH-10690,Anna Häberlin,Loyal Customers,23,1,342.9693043478261
+HJ-14875,Heather Jas,At Risk,6,1,59.68333333333334
+MH-17455,Mark Hamilton,Loyal Customers,11,1,223.28927272727276
+RD-19930,Russell D'Ascenzo,Lost,10,1,97.09420000000001
+SC-20020,Sam Craven,At Risk,17,1,197.8213882352941
+SU-20665,Stephanie Ulpright,Loyal Customers,18,1,144.1868888888889
+FC-14335,Fred Chung,Loyal Customers,10,1,388.9366
+RB-19330,Randy Bradley,Lost,6,1,168.03266666666664
+NC-18535,Nick Crebassa,Loyal Customers,15,1,549.4492666666666
+DB-12970,Darren Budd,At Risk,14,1,202.80194285714285
+MF-17665,Maureen Fritzler,At Risk,8,1,117.129875
+RM-19750,Roland Murray,Lost,2,1,49.175
+VM-21835,Vivian Mathis,At Risk,8,1,47.58625
+EJ-13720,Ed Jacobs,Lost,8,1,270.27175
+NC-18415,Nathan Cano,Potential Loyalists,14,1,158.49928571428572
+LS-17230,Lycoris Saunders,Lost,6,1,61.48000000000001
+KE-16420,Katrina Edelman,Potential Loyalists,15,1,112.44874666666666
+DH-13675,Duane Huffman,Lost,11,1,94.8269090909091
+PF-19120,Peter Fuller,Lost,19,1,476.99284210526315
+VT-21700,Valerie Takahito,Lost,9,1,192.9551111111111
+MG-17695,Maureen Gnade,Lost,7,1,191.7545714285714
+SP-20920,Susan Pistek,Loyal Customers,14,1,285.0492142857143
+CS-12175,Charles Sheldon,At Risk,8,1,105.55725000000001
+DK-12895,Dana Kaydos,Potential Loyalists,15,1,285.4784
+KM-16660,Khloe Miller,Potential Loyalists,9,1,50.39311111111111
+AA-10645,Anna Andreadi,Potential Loyalists,18,1,282.60749999999996
+DD-13570,Dorothy Dickinson,Potential Loyalists,9,1,29.949111111111108
+AH-10465,Amy Hunt,At Risk,8,1,311.92395
+TP-21565,Tracy Poddar,Lost,10,1,193.664
+EK-13795,Eileen Kiefer,Lost,4,1,325.8695
+CR-12820,Cyra Reiten,Lost,7,1,199.69605714285714
+SG-20890,Susan Gilcrest,Lost,5,1,9.5892
+AH-10585,Angele Hood,Lost,5,1,147.70080000000002
+NF-18475,Neil Französisch,Lost,4,1,94.29050000000001
+BS-11365,Bill Shonely,At Risk,9,1,1166.8503333333333
+SH-20635,Stefanie Holloman,Lost,2,1,1048.196
+RD-19720,Roger Demir,Potential Loyalists,20,1,70.98685
+AG-10330,Alex Grayson,Potential Loyalists,9,1,73.44133333333333
+GR-14560,Georgia Rosenberg,Lost,5,1,256.87600000000003
+VS-21820,Vivek Sundaresam,Lost,8,1,131.997625
+TM-21490,Tony Molinari,Lost,4,1,273.66949999999997
+TS-21430,Tom Stivers,At Risk,7,1,293.4485714285714
+DB-13360,Dennis Bolton,At Risk,6,1,180.24433333333332
+NR-18550,Nick Radford,At Risk,13,1,182.09823076923078
+CS-11860,Cari Schnelling,At Risk,7,1,76.80457142857142
+MF-18250,Monica Federle,Potential Loyalists,12,1,146.525
+LW-17125,Liz Willingham,Lost,5,1,251.808
+AR-10345,Alex Russell,Lost,5,1,211.1388
+KS-16300,Karen Seio,Lost,4,1,22.118
+AB-10015,Aaron Bergman,Lost,6,1,147.69266666666667
+LR-17035,Lisa Ryan,At Risk,12,1,156.60883333333334
+SS-20410,Shahid Shariari,Loyal Customers,12,1,254.7339166666667
+JM-15580,Jill Matthias,Potential Loyalists,7,1,43.421142857142854
+JK-15325,Jason Klamczynski,Lost,4,1,95.953
+DM-13525,Don Miller,Lost,10,1,137.67919999999998
+ML-18265,Muhammed Lee,Lost,3,1,54.077333333333335
+MH-17290,Marc Harrigan,Loyal Customers,13,1,184.15576923076924
+FC-14245,Frank Carlisle,Loyal Customers,14,1,244.19585714285716
+TH-21115,Thea Hudgings,Lost,9,1,326.9746666666667
+JK-16090,Juliana Krohn,Lost,9,1,416.4075555555556
+SB-20185,Sarah Brown,Loyal Customers,12,1,534.2496666666667
+BG-11035,Barry Gonzalez,Loyal Customers,12,1,233.24566666666666
+BW-11065,Barry Weirich,Lost,3,1,128.50533333333334
+MG-18205,Mitch Gastineau,Lost,2,1,8.3695
+DO-13645,Doug O'Connell,Potential Loyalists,11,1,115.21054545454545
+BP-11050,Barry Pond,At Risk,7,1,140.48857142857142
+TS-21655,Trudy Schmidt,At Risk,14,1,240.57814285714286
+EM-14200,Evan Minnotte,Lost,4,1,91.7055
+AO-10810,Anthony O'Donnell,Lost,1,0,161.28
+MH-17440,Mark Haberlin,Lost,9,1,44.446222222222225
+SS-20515,Shirley Schmidt,Lost,6,1,102.23333333333333
+LD-16855,Lela Donovan,Lost,1,0,5.304
+VP-21760,Victoria Pisteka,Loyal Customers,14,1,240.03757142857143
+TC-21145,Theresa Coyne,Lost,4,1,259.565
+IM-15055,Ionia McGrath,Lost,4,1,718.1575
+AR-10570,Anemone Ratner,Lost,2,1,44.075
+CM-12715,Craig Molinari,Lost,13,1,306.49633846153847
+FW-14395,Fred Wasserman,Lost,3,1,26.583333333333332
+LC-16960,Lindsay Castell,Lost,7,1,463.8037142857143
+HE-14800,Harold Engle,Lost,11,1,80.3210909090909
+BD-11560,Brendan Dodson,Lost,4,1,80.135
+HD-14785,Harold Dahlen,Lost,7,1,35.90857142857143
+CJ-11875,Carl Jackson,Lost,1,0,16.52
+RS-19870,Roy Skaria,Lost,3,1,7.442666666666667
+SC-20845,Sung Chung,Lost,4,1,70.158
+RE-19405,Ricardo Emerson,Lost,1,0,48.36
+SM-20905,Susan MacKendrick,Lost,6,1,173.84016666666665
