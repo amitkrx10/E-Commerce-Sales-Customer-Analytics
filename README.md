@@ -73,3 +73,10 @@ The project uses e-commerce transaction data containing customer, product, sales
 ## Author
 
 Amit Kumar
+
+*screenshots*
+<img width="1189" height="669" alt="image" src="https://github.com/user-attachments/assets/e69b6af5-4f5b-45bb-9ebb-8540c6831bcd" />
+<img width="1167" height="656" alt="image" src="https://github.com/user-attachments/assets/296302ad-7248-41b5-8994-f61164749a88" />
+<img width="1168" height="654" alt="image" src="https://github.com/user-attachments/assets/4e4338df-79c7-4131-a666-83e5556736cb" />
+
+
